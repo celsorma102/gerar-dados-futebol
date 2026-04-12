@@ -6,6 +6,10 @@ Um projeto de analise de dados de clubes de futebol. Este projeto utiliza Python
 - Geração automática de dados fictícios para jogadores, times e estádios.
 - Associação de jogadores a times e times a ligas.
 
+## Novas Funcionalidades
+- Análise de dados para identificar as ligas, times e jogadores mais competitivos.
+- Geração da melhor escalação para times com base na formação tática ideal e média de overall.
+
 ## Tecnologias Utilizadas
 - Python
 - SQLite
