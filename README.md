@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Tática Total EC - Simulador de Gestão de Clubes de Futebol
 Um projeto de analise de dados de clubes de futebol. Este projeto utiliza Python e SQLite para gerenciar os dados e Faker para gerar informações fictícias.
 
@@ -31,8 +30,6 @@ Um projeto de analise de dados de clubes de futebol. Este projeto utiliza Python
 - `analise.ipynb`: Contém o código para análise e visualização dos dados.
 - `README.md`: Este arquivo, com informações sobre o projeto.
 
-## Contribuição
-=======
 ## Tática Total EC - Simulador de Gestão de Clubes de Futebol
 Um projeto de analise de dados de clubes de futebol. Este projeto utiliza Python e SQLite para gerenciar os dados e Faker para gerar informações fictícias.
 
@@ -62,5 +59,4 @@ Um projeto de analise de dados de clubes de futebol. Este projeto utiliza Python
 - `README.md`: Este arquivo, com informações sobre o projeto.
 
 ## Contribuição
->>>>>>> 30052c9a3a10c80d38b608a478d8a45be1a4e164
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
